@@ -1,0 +1,25 @@
+.padre{
+	background-color: #FFFFFF;
+	border: 3px solid #B1A9AF;
+}
+.primero{
+	width: 25%;
+	height: 100px;
+	background-color: #F2F614;
+	float: left;
+}
+.segundo{
+	width: 25%;
+	height: 100px;
+	background-color: #08728C;
+	float: left;
+}
+.tercero{
+	width: 25%;
+	height: 100px;
+	background-color: #E406B4;
+	float: left;
+}
+.clearfix{
+	overflow: auto;
+}
